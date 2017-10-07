@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">QuizApp</string>
-    <string name="result_name">Result</string>
-    <string name="send_to">Де бажаєш поділитися?</string>
+
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+
+    <string name="share_button">Share your result</string>
 
 
     <string name="question_one">Question 1: </string>
@@ -41,6 +44,7 @@
     <string name="q7_variant2">variant two - question 7</string>
     <string name="q7_variant3">variant three - question 7</string>
 
-    <string name="unchecked_message">Please make your choice</string>
+    <string name="unchecked_message">Please choose your answer</string>
+    <string name="send_to">Where do you want to share?</string>
 
 </resources>

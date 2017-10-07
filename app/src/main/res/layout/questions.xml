@@ -16,7 +16,7 @@
         <TextView android:id="@+id/question_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="yo"
+            android:text=""
             android:layout_margin="16dp"
             android:textSize="24sp"
             android:padding="16dp"
@@ -32,25 +32,25 @@
             <RadioButton android:id="@+id/radio_one"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="varone" />
+                android:text="" />
             <RadioButton android:id="@+id/radio_two"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text="vartwo"/>
+                android:text=""/>
             <RadioButton android:id="@+id/radio_three"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
-                android:text="varthree"/>
+                android:text=""/>
         </RadioGroup>
 
         <Button
             android:id="@+id/next"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Next"
+            android:text="@string/next"
             android:background="@drawable/button_selector"
             android:onClick="onNextButton"
             android:layout_margin="16dp"
@@ -58,9 +58,6 @@
             android:padding="16dp"
             android:textAllCaps="true"/>
 
-
     </LinearLayout>
-
-
 
 </ScrollView>

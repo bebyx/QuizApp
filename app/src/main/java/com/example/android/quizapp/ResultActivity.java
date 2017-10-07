@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 public class ResultActivity extends AppCompatActivity {
 
-    String resultDescription = "Please return and make your choice";
+    String resultDescription;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,8 +48,6 @@ public class ResultActivity extends AppCompatActivity {
 
         TextView resultText = (TextView) findViewById(R.id.result);
         resultText.setText(resultDescription);
-
-
 
     }
 
