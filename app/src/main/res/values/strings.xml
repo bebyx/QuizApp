@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="result_name">Result</string>
+    <string name="send_to">Де бажаєш поділитися?</string>
+
+
+    <string name="question_one">Question 1: </string>
+    <string name="question_two">Question 2: </string>
+    <string name="question_three">Question 3: </string>
+    <string name="question_four">Question 4: </string>
+    <string name="question_five">Question 5: </string>
+    <string name="question_six">Question 6: </string>
+    <string name="question_seven">Question 7: </string>
+
+
+    <string name="q1_variant1">variant one - question 1</string>
+    <string name="q1_variant2">variant two - question 1</string>
+    <string name="q1_variant3">variant three - question 1</string>
+
+    <string name="q2_variant1">variant one - question 2</string>
+    <string name="q2_variant2">variant two - question 2</string>
+    <string name="q2_variant3">variant three - question 2</string>
+
+    <string name="q3_variant1">variant one - question 3</string>
+    <string name="q3_variant2">variant two - question 3</string>
+    <string name="q3_variant3">variant three - question 3</string>
+
+    <string name="q4_variant1">variant one - question 4</string>
+    <string name="q4_variant2">variant two - question 4</string>
+    <string name="q4_variant3">variant three - question 4</string>
+
+    <string name="q5_variant1">variant one - question 5</string>
+    <string name="q5_variant2">variant two - question 5</string>
+    <string name="q5_variant3">variant three - question 5</string>
+
+    <string name="q6_variant1">variant one - question 6</string>
+    <string name="q6_variant2">variant two - question 6</string>
+    <string name="q6_variant3">variant three - question 6</string>
+
+    <string name="q7_variant1">variant one - question 7</string>
+    <string name="q7_variant2">variant two - question 7</string>
+    <string name="q7_variant3">variant three - question 7</string>
+
+    <string name="unchecked_message">Please make your choice</string>
+
+</resources>
