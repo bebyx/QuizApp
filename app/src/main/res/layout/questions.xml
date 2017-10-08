@@ -16,7 +16,7 @@
         <TextView android:id="@+id/question_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text=""
+            tools:text="it's questionTime!"
             android:layout_margin="16dp"
             android:textSize="24sp"
             android:padding="16dp"
@@ -32,18 +32,18 @@
             <RadioButton android:id="@+id/radio_one"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="" />
+                tools:text="variant one" />
             <RadioButton android:id="@+id/radio_two"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
-                android:text=""/>
+                tools:text="variant two"/>
             <RadioButton android:id="@+id/radio_three"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
-                android:text=""/>
+                tools:text="variant three"/>
         </RadioGroup>
 
         <Button
