@@ -2,8 +2,8 @@
 <resources>
     <string name="send_to">Де бажаєш поділитися?</string>
     <string name="start">Почати</string>
-    <string name="app_name">ТестЗаст</string>
-    <string name="unchecked_message">Вибери будь ласка відповідь</string>
+    <string name="app_name">ТестоЗаст</string>
+    <string name="unchecked_message">Будь ласка вибери відповідь</string>
     <string name="next">Далі</string>
     <string name="question_five">"Питання 5: "</string>
     <string name="question_four">\"Питання 4: \"</string>
