@@ -3,7 +3,7 @@
     <string name="send_to">Де бажаєш поділитися?</string>
     <string name="start">Почати</string>
     <string name="app_name">ТестЗаст</string>
-    <string name="unchecked_message">Виберіть будь ласка відповідь</string>
+    <string name="unchecked_message">Вибери будь ласка відповідь</string>
     <string name="next">Далі</string>
     <string name="question_five">"Питання 5: "</string>
     <string name="question_four">\"Питання 4: \"</string>
@@ -12,11 +12,26 @@
     <string name="question_six">\"Питання 6: \"</string>
     <string name="question_three">\"Питання 3: \"</string>
     <string name="question_two">\"Питання 2: \"</string>
-    <string name="share_button">Поділіться результатом</string>
+    <string name="share_button">Поділися результатом</string>
     <string name="q1_variant1">варіант перший - питання 1</string>
     <string name="q1_variant2">варіант другий - питання 1</string>
     <string name="q1_variant3">варіант третій - питання 1</string>
     <string name="q2_variant1">варіант перший - питання 2</string>
     <string name="q2_variant2">варіант другий - питання 2</string>
     <string name="q2_variant3">варіант третій - питання 2</string>
+    <string name="q3_variant1">варіант перший - питання 3</string>
+    <string name="q3_variant2">варіант другий - питання 3</string>
+    <string name="q3_variant3">варіант третій - питання 3</string>
+    <string name="q4_variant1">варіант перший - питання 4</string>
+    <string name="q4_variant2">варіант другий - питання 4</string>
+    <string name="q4_variant3">варіант третій - питання 4</string>
+    <string name="q5_variant1">варіант перший - питання 5</string>
+    <string name="q5_variant2">варіант другий - питання 5</string>
+    <string name="q5_variant3">варіант третій - питання 5</string>
+    <string name="q6_variant1">варіант перший - питання 6</string>
+    <string name="q6_variant2">варіант другий - питання 6</string>
+    <string name="q6_variant3">варіант третій - питання 6</string>
+    <string name="q7_variant1">варіант перший - питання 7</string>
+    <string name="q7_variant2">варіант другий - питання 7</string>
+    <string name="q7_variant3">варіант третій - питання 7</string>
 </resources>
